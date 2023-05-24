@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h1>Baazar - A Stock Price Prediction Web APP</h1>
+  <h1>Baazar - A Stock Price Prediction Web App</h1>
 
   <p>This project is a web application that predicts stock prices using linear regression. It allows users to enter a stock symbol, select a date range, and view the actual and predicted prices.</p>
 
