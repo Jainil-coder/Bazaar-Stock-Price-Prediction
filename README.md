@@ -40,7 +40,7 @@
   <h3>Installation</h3>
   <ol>
     <li>Clone the repository:</li>
-    <code>git clone &lt;https://github.com/Jainil-coder/Baazar&gt;</code>
+    <code>git clone &lt;https://github.com/Jainil-coder/Baazar-Stock-price-prediction&gt;</code>
     <li>Install the required dependencies:</li>
     <code>pip install -r requirements.txt</code>
   </ol>
