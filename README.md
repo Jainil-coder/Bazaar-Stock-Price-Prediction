@@ -13,12 +13,11 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
   </ul>
 
   <h2 id="demo">Demo</h2>
 
-  <p>You can find a live demo of the application <a href="<http://localhost:8501/>">here</a>.</p>
+<p>You can find a live demo of the application <a href="http://localhost:8501/">here</a>.</p>
 
   <h2 id="features">Features</h2>
   <ul>
