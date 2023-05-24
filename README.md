@@ -18,10 +18,6 @@
   <h2 id="demo">Demo</h2>
 
 <p>You can find a live demo of the application <a href="http://localhost:8501/">here</a>.</p>
-
-  <h3>Web App Screenshots</h3>
-  <img src="images/1.png" alt="" width="600">
-  <img src="images/2.png" alt="" width="600">
   
   <h2 id="features">Features</h2>
   <ul>
